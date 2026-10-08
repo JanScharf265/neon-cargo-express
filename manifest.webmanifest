@@ -1,0 +1,17 @@
+{
+  "name": "Neon Cargo Express",
+  "short_name": "Cargo Express",
+  "description": "Neon-Arcade-Lander: Fracht abholen, sanft auf Plattform B landen und das Schiff in der Werft aufrüsten.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#06050d",
+  "theme_color": "#06050d",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
